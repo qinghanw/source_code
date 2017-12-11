@@ -1,1 +1,0 @@
-cmd_/home/algorithms/Documents/examples/misc-modules/hello.ko.unsigned := ld -r -m elf_x86_64 -T /usr/src/kernels/2.6.32-504.30.3.el6.x86_64/scripts/module-common.lds --build-id -o /home/algorithms/Documents/examples/misc-modules/hello.ko.unsigned /home/algorithms/Documents/examples/misc-modules/hello.o /home/algorithms/Documents/examples/misc-modules/hello.mod.o 
