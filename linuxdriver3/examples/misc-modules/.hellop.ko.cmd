@@ -1,1 +1,0 @@
-cmd_/home/algorithms/Documents/linuxdriver3/examples/misc-modules/hellop.ko := cp /home/algorithms/Documents/linuxdriver3/examples/misc-modules/hellop.ko.unsigned /home/algorithms/Documents/linuxdriver3/examples/misc-modules/hellop.ko
