@@ -1,0 +1,20 @@
+FILE[bin]
+bin is a directory
+FILE[Desktop]
+Desktop is a directory
+FILE[Documents]
+Documents is a directory
+FILE[Downloads]
+Downloads is a directory
+FILE[Music]
+Music is a directory
+FILE[Pictures]
+Pictures is a directory
+FILE[Public]
+Public is a directory
+FILE[study.txt]
+study.txt is a file
+FILE[Templates]
+Templates is a directory
+FILE[Videos]
+Videos is a directory

@@ -1,0 +1,1 @@
+cmd_/home/algorithms/Documents/linuxdriver3/examples/misc-modules/complete.ko := cp /home/algorithms/Documents/linuxdriver3/examples/misc-modules/complete.ko.unsigned /home/algorithms/Documents/linuxdriver3/examples/misc-modules/complete.ko

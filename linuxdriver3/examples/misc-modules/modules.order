@@ -1,0 +1,6 @@
+kernel//home/algorithms/Documents/linuxdriver3/examples/misc-modules/hello.ko
+kernel//home/algorithms/Documents/linuxdriver3/examples/misc-modules/hellop.ko
+kernel//home/algorithms/Documents/linuxdriver3/examples/misc-modules/seq.ko
+kernel//home/algorithms/Documents/linuxdriver3/examples/misc-modules/sleepy.ko
+kernel//home/algorithms/Documents/linuxdriver3/examples/misc-modules/complete.ko
+kernel//home/algorithms/Documents/linuxdriver3/examples/misc-modules/silly.ko

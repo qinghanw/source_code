@@ -1,0 +1,1 @@
+cmd_/home/algorithms/Documents/linuxdriver3/examples/misc-modules/sleepy.ko := cp /home/algorithms/Documents/linuxdriver3/examples/misc-modules/sleepy.ko.unsigned /home/algorithms/Documents/linuxdriver3/examples/misc-modules/sleepy.ko

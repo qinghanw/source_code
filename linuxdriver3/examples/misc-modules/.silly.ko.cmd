@@ -1,0 +1,1 @@
+cmd_/home/algorithms/Documents/linuxdriver3/examples/misc-modules/silly.ko := cp /home/algorithms/Documents/linuxdriver3/examples/misc-modules/silly.ko.unsigned /home/algorithms/Documents/linuxdriver3/examples/misc-modules/silly.ko

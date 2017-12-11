@@ -1,0 +1,8 @@
+   text	   data	    bss	    dec	    hex	filename
+   1140	    492	     16	   1648	    670	a.out
+   text	   data	    bss	    dec	    hex	filename
+   1140	    492	   4032	   5664	   1620	a.out
+   text	   data	    bss	    dec	    hex	filename
+   1140	   4520	     16	   5676	   162c	a.out
+   text	   data	    bss	    dec	    hex	filename
+   1140	   4520	  40032	  45692	   b27c	a.out
